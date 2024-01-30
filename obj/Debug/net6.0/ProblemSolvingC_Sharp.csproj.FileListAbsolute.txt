@@ -1,0 +1,15 @@
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\bin\Debug\net6.0\ProblemSolvingC_Sharp.exe
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\bin\Debug\net6.0\ProblemSolvingC_Sharp.deps.json
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\bin\Debug\net6.0\ProblemSolvingC_Sharp.runtimeconfig.json
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\bin\Debug\net6.0\ProblemSolvingC_Sharp.dll
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\bin\Debug\net6.0\ProblemSolvingC_Sharp.pdb
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\ProblemSolvingC_Sharp.csproj.AssemblyReference.cache
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\ProblemSolvingC_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\ProblemSolvingC_Sharp.AssemblyInfoInputs.cache
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\ProblemSolvingC_Sharp.AssemblyInfo.cs
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\ProblemSolvingC_Sharp.csproj.CoreCompileInputs.cache
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\ProblemSolvingC_Sharp.dll
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\refint\ProblemSolvingC_Sharp.dll
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\ProblemSolvingC_Sharp.pdb
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\ProblemSolvingC_Sharp.genruntimeconfig.cache
+D:\Backend\project\ProblemSolvingC_Sharp\ProblemSolvingC_Sharp\obj\Debug\net6.0\ref\ProblemSolvingC_Sharp.dll
